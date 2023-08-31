@@ -6,7 +6,6 @@ I am a web developer and I am proficient in web development technologies such as
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlsdG96eHB0azJoM252Z3ZpejdlbHN6NDZqNzI2ZmlxczJ1OG9mYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🌐 Socials:
-- 📫 How to reach me **androidtelefonum5@gmail.com**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahim474) 
 
 # 💻 Tech Stack:
