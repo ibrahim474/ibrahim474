@@ -1,7 +1,9 @@
+[![MasterHead](https://www.guvi.in/blog/wp-content/uploads/2022/11/giphyFSD.gif)
+
 <h1 align="center">Merhaba Ben İbrahim</h1>
 <h3 align="center">front end developer</h3>
 
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlsdG96eHB0azJoM252Z3ZpejdlbHN6NDZqNzI2ZmlxczJ1OG9mYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -24,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahim474&show_icons=true&locale=en" alt="ibrahim474" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim474&" alt="ibrahim474" /></p>
-
