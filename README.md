@@ -1,4 +1,4 @@
-[![MasterHead](https://www.guvi.in/blog/wp-content/uploads/2022/11/giphyFSD.gif)
+[![MasterHead](https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif)
 
 <h1 align="center">Merhaba Ben İbrahim</h1>
 <h3 align="center">front end developer</h3>
