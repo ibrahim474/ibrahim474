@@ -1,4 +1,4 @@
-[![MasterHead](https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=1210%2C642&ssl=1)
+[MasterHead](https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=1210%2C642&ssl=1)
 
 <h1 align="center">Merhaba Ben İbrahim</h1>
 <h3 align="center">front end developer</h3>
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-yilmaz-369625141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibrahim-yilmaz-369625141/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ibrahim-yilmaz-369625141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibrahim-yilmaz-369625141/" height="30" width="40" /></a>
 <a href="https://instagram.com/ibrahim_yilmaz45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahim_yilmaz45" height="30" width="40" /></a>
 </p>
 
