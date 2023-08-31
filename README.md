@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/a93031e8b1d874c7d1f76754c67db6530b3087117e7e5ca4dd9c0d903d53efaf/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133)
 
-<h1 align="center">Merhaba Ben İbrahim</h1>
+<h1 align="center">Hi 👋, I'm Ibrahim Yılmaz</h1>
 <h3 align="center">I'm a Front-End Developer from Turkish, who enjoys learning new things and facing new challenges!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahim474&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahim474" /> </p>
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-yilmaz-369625141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibrahim-yilmaz-369625141/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ibrahim-yilmaz-369625141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibrahim-yilmaz-369625141/" height="30" width="40" /></a>
 <a href="https://instagram.com/ibrahim_yilmaz45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahim_yilmaz45" height="30" width="40" /></a>
 </p>
 
