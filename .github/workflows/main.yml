@@ -1,0 +1,19 @@
+name: Generate Snake
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Generate Snake
+      run: |
+        git clone https://github.com/greerviau/Snake.git
+        cd Snake
+        python snake.py
